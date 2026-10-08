@@ -1,16 +1,15 @@
-# HydraJarvis
-Un jarvis casero en muy muy muy fase beta
+#HydraJarvis
+made by HydraPapaya 
 
+Beta tester Oliolo127
 
-// bash
-# Linux
-curl -fsSL https://ollama.com/install.sh | sh
-sudo dnf install ffmpeg openssl wmctrl   # Debian/Ubuntu: sudo apt install ...
-cd HydraJarvis && ./run.sh
+#Ultra Beta - Recien salido del horno bugs a cascoporro!!
+Funciona en windows y linux con instalador de dependencias automatico
 
-// powershell
-# Windows (PowerShell)
-winget install -e --id Ollama.Ollama
-winget install -e --id Gyan.FFmpeg
-winget install -e --id ShiningLight.OpenSSL.Light
-cd HydraJarvis; python run.py
+#Steps instalation
+
+instalar pyhton 3 y el zip
+
+poner en powershell/shell
+
+python3 run.py
